@@ -1,0 +1,5 @@
+Tugas 2 DPW 2
+link:
+https://github.com/suryaz-d/TechShop.git
+commit:
+bd6eeb51f8ab38864c5b6b135d17592a367cf87a
